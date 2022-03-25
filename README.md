@@ -1,6 +1,7 @@
-<div style="text-align: center" >
+<div align="center" >
 <img src="./front-end/recFront/public/silvensnrecsys.png" />    
 </div>
+
 
 > Simple Recommender System
 
