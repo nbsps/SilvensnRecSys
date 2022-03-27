@@ -6,7 +6,6 @@
         <el-image
           style="width: auto; height: 100%"
           :src="static_domain + 'posters/' + item.movieId + '.jpg'"
-          fit="contain"
           lazy
         />
       </el-carousel-item>
